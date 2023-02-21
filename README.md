@@ -2,7 +2,7 @@
 ##
 - 🔭 Atualmente faço projetos baseados nos meus estudos da faculdade na área de Física e Astronomia.
 - 🌱 Estudando C++
-- ✨ Trabalhando na criação do CAESO - Set of Analysis abd Evolution of Orbital Systems.
+- ✨ Trabalhando na criação do CAESO - Set of Analysis and Evolution of Orbital Systems.
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mathematica" height="30" width="40" src="https://www.logo.wine/a/logo/Wolfram_Mathematica/Wolfram_Mathematica-Logo.wine.svg">
