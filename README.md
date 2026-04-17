@@ -35,7 +35,7 @@ Estudante de graduação no **Instituto de Astronomia, Geofísica e Ciências At
 
 ### 📫 Conecte-se Comigo
 [![Lattes](https://img.shields.io/badge/Currículo_Lattes-ebdbb2?style=for-the-badge&logo=google-scholar&logoColor=282c34)](http://lattes.cnpq.br/9576169940882273)
-[![Email](https://img.shields.io/badge/Email-61afef?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.acacio@usp.br)
+[![Email](https://img.shields.io/badge/Email-61afef?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.mor.acacio@usp.br)
 
 ---
 
