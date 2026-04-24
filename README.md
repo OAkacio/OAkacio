@@ -16,14 +16,13 @@ Estudante de graduação no **Instituto de Astronomia, Geofísica e Ciências At
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-*Estilizadas com a paleta Atom One Dark*
 
 | Tecnologia | Badge |
 | :--- | :--- |
 | **Linguagem Principal** | ![Python](https://img.shields.io/badge/Python-98c379?style=for-the-badge&logo=python&logoColor=282c34) |
 | **Análise de Dados** | ![R](https://img.shields.io/badge/R-d19a66?style=for-the-badge&logo=r&logoColor=white) |
 | **Computação Simbólica** | ![Mathematica](https://img.shields.io/badge/Mathematica-e06c75?style=for-the-badge&logo=wolfram-mathematica&logoColor=white) |
-| **Documentação Científica** | ![LaTeX](https://img.shields.io/badge/LaTeX-61afef?style=for-the-badge&logo=latex&logoColor=white) |
+| **Documentação Científica** | ![LaTeX](https://img.shields.io/badge/LaTeX-61afef?style=for-the-badge&logo=latex&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-e5c07b?style=for-the-badge&logo=jupyter&logoColor=white) |
 | **Desenvolvimento & Simulação** | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-c678dd?style=for-the-badge&logo=unreal-engine&logoColor=white) |
 
 ---
