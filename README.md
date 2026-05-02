@@ -1,8 +1,14 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="688" src="https://i.pinimg.com/originals/72/51/dd/7251ddbd6e3be6064331943b0a1cdd46.gif"  />
 
 ###
 
@@ -13,10 +19,6 @@
 ###
 
 <br clear="both">
-
-<img align="right" height="450" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUya211aDI5cXRpaWF5YWFqYWZxbHRqdjQ3OG1qZHA1Zm9hbTQwYjdmcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1d5U0obZgZq1LySswv/200w.gif"  />
-
-###
 
 <h4 align="center">Estudante de graduação no Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP).</h4>
 
@@ -40,14 +42,6 @@
   <img src="https://skillicons.dev/icons?i=unreal" height="32" alt="unrealengine logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="32" alt="latex logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
