@@ -12,7 +12,9 @@
 
 ###
 
-<img align="right" height="500" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzgyajV1cmlwcnB6azhuZ29kcmZsdDFuZDJ3ZWhtcjA3bnc3OXFjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rn79UlSTDfDlS/200.gif"  />
+<br clear="both">
+
+<img align="right" height="450" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzgyajV1cmlwcnB6azhuZ29kcmZsdDFuZDJ3ZWhtcjA3bnc3OXFjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rn79UlSTDfDlS/200.gif"  />
 
 ###
 
@@ -20,15 +22,11 @@
 
 ###
 
-<p align="left">🔭 Atualmente focado na pesquisa de ejeção de plasma estelar acelerado por Ondas Alfvén no modelo Jatenco-Pereira e Opher, sob orientação da Profa. Dra. Vera Jatenco Silva Pereira.<br>🏫 Monitor atual do projeto Telescópios na Escola (TnE).<br>🌌 Ex-monitor do Planetário do Carmo - Professor Acácio Riberi.</p>
+<h6 align="left">🔭 Atualmente focado na pesquisa de ejeção de plasma estelar acelerado por Ondas Alfvén no modelo Jatenco-Pereira e Opher, sob orientação da Profa. Dra. Vera Jatenco Silva Pereira.<br>🏫 Monitor atual do projeto Telescópios na Escola (TnE).<br>🌌 Ex-monitor do Planetário do Carmo - Professor Acácio Riberi.</h6>
 
 ###
 
-<p align="left">🔭 Pesquisa e Projetos<br>🌌 Magnetohidrodinâmica: Modelagem de ventos estelares e expansão super-radial.<br>🪐 Exoplanetas: Impacto do vento estelar no sistema TRAPPIST-1.</p>
-
-###
-
-<p align="left"></p>
+<h6 align="left">🔭 Pesquisa e Projetos<br>🌌 Magnetohidrodinâmica: Modelagem de ventos estelares e expansão super-radial.<br>🪐 Exoplanetas: Impacto do vento estelar no sistema TRAPPIST-1.</h6>
 
 ###
 
