@@ -12,19 +12,23 @@
 
 ###
 
-<img align="right" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzgyajV1cmlwcnB6azhuZ29kcmZsdDFuZDJ3ZWhtcjA3bnc3OXFjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rn79UlSTDfDlS/200.gif"  />
+<img align="right" height="500" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzgyajV1cmlwcnB6azhuZ29kcmZsdDFuZDJ3ZWhtcjA3bnc3OXFjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rn79UlSTDfDlS/200.gif"  />
 
 ###
 
-<h6 align="center">Estudante de graduação no Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP).</h6>
+<h4 align="center">Estudante de graduação no Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP).</h4>
 
 ###
 
-<h6 align="right">🔭 Atualmente focado na pesquisa de ejeção de plasma estelar acelerado por Ondas Alfvén no modelo Jatenco-Pereira e Opher, sob orientação da Profa. Dra. Vera Jatenco Silva Pereira.<br>🏫 Monitor atual do projeto Telescópios na Escola (TnE).<br>🌌 Ex-monitor do Planetário do Carmo - Professor Acácio Riberi.</h6>
+<p align="left">🔭 Atualmente focado na pesquisa de ejeção de plasma estelar acelerado por Ondas Alfvén no modelo Jatenco-Pereira e Opher, sob orientação da Profa. Dra. Vera Jatenco Silva Pereira.<br>🏫 Monitor atual do projeto Telescópios na Escola (TnE).<br>🌌 Ex-monitor do Planetário do Carmo - Professor Acácio Riberi.</p>
 
 ###
 
-<h6 align="left">🔭 Pesquisa e Projetos<br>🌌 Magnetohidrodinâmica: Modelagem de ventos estelares e expansão super-radial.<br>🪐 Exoplanetas: Impacto do vento estelar no sistema TRAPPIST-1.</h6>
+<p align="left">🔭 Pesquisa e Projetos<br>🌌 Magnetohidrodinâmica: Modelagem de ventos estelares e expansão super-radial.<br>🪐 Exoplanetas: Impacto do vento estelar no sistema TRAPPIST-1.</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -42,23 +46,10 @@
 
 ###
 
-<div align="right">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OAkacio&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
