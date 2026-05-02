@@ -1,48 +1,70 @@
-<div align="center">
-  <h1>🪐 Victor Moreira Acacio</h1>
-  <p><i>"Ad Astra Per Aspera"</i></p>
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia-hXl7S-ssZxGqxKQ1NzAgdr2p_vnr2uQM8DKJ0wwBmKMNWTQafRFEuOye4cWeiJoA-_qhNWk3TEjQKw_gCkW5rWHVOmLy2qYBzZMMhdD9qIufy_yKdj9caPGE5ASviWyXszCAQ/s1600/b51179b9f68e94e38047eab97935ffc0.gif" width="300">
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
 
----
+###
 
-### 🚀 Sobre Mim
-Estudante de graduação no **Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP)**.
+<br clear="both">
 
-- 🔭 Atualmente focado na pesquisa de ejeção de plasma estelar acelerado por **Ondas Alfvén** no modelo Jatenco-Pereira e Opher, sob orientação da Profa. Dra. Vera Jatenco Silva Pereira.
-- 🏫 Monitor atual do projeto **Telescópios na Escola (TnE)**.
-- 🌌 Ex-monitor do **Planetário do Carmo** - Professor Acácio Riberi.
+<h1 align="center">🪐 Victor Moreira Acacio</h1>
 
----
+###
 
-### 🛠️ Tecnologias & Ferramentas
+<img align="right" height="325" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzgyajV1cmlwcnB6azhuZ29kcmZsdDFuZDJ3ZWhtcjA3bnc3OXFjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rn79UlSTDfDlS/200.gif"  />
 
-| Tecnologia | Badge |
-| :--- | :--- |
-| **Linguagem Principal** | ![Python](https://img.shields.io/badge/Python-98c379?style=for-the-badge&logo=python&logoColor=282c34) |
-| **Análise de Dados** | ![R](https://img.shields.io/badge/R-d19a66?style=for-the-badge&logo=r&logoColor=white) |
-| **Computação Simbólica** | ![Mathematica](https://img.shields.io/badge/Mathematica-e06c75?style=for-the-badge&logo=wolfram-mathematica&logoColor=white) |
-| **Documentação Científica** | ![LaTeX](https://img.shields.io/badge/LaTeX-61afef?style=for-the-badge&logo=latex&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37821?style=for-the-badge&logo=jupyter&logoColor=white) |
-| **Desenvolvimento & Simulação** | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-c678dd?style=for-the-badge&logo=unreal-engine&logoColor=white) |
+###
 
----
+<h6 align="center">Estudante de graduação no Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP).</h6>
 
-### 🔭 Pesquisa e Projetos
-- 🌌 **Magnetohidrodinâmica:** Modelagem de ventos estelares e expansão super-radial.
-- 🪐 **Exoplanetas:** Impacto do vento estelar no sistema TRAPPIST-1.
+###
 
----
+<h6 align="right">🔭 Atualmente focado na pesquisa de ejeção de plasma estelar acelerado por Ondas Alfvén no modelo Jatenco-Pereira e Opher, sob orientação da Profa. Dra. Vera Jatenco Silva Pereira.<br>🏫 Monitor atual do projeto Telescópios na Escola (TnE).<br>🌌 Ex-monitor do Planetário do Carmo - Professor Acácio Riberi.</h6>
 
-### 📫 Conecte-se Comigo
-[![Email](https://img.shields.io/badge/Email-61afef?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.mor.acacio@usp.br)
+###
 
----
+<h6 align="left">🔭 Pesquisa e Projetos<br>🌌 Magnetohidrodinâmica: Modelagem de ventos estelares e expansão super-radial.<br>🪐 Exoplanetas: Impacto do vento estelar no sistema TRAPPIST-1.</h6>
 
-<div align="center">
+###
 
-**EQUAÇÃO FAVORITA**
-
-**Raio de Schwarzschild**
-$$R_s = \frac{2GM}{c^2}$$
-
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="32" alt="r logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="32" alt="jupyter logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="32" alt="unrealengine logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/latex/008080" height="32" alt="latex logo"  />
 </div>
+
+###
+
+<div align="right">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OAkacio&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="150" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/OAkacio/OAkacio/output/snake.svg" alt="Snake animation" />
+
+###
