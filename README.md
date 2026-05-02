@@ -8,19 +8,15 @@
 
 <br clear="both">
 
-<div align="left">
-  <img height="580" src="https://i.pinimg.com/originals/72/51/dd/7251ddbd6e3be6064331943b0a1cdd46.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h1 align="center">🪐 Victor Moreira Acacio</h1>
 
 ###
 
 <br clear="both">
+
+<img align="right" height="275" src="https://media1.tenor.com/m/FqvOyZAUqpwAAAAd/black-hole-gif-black-holes.gif"  />
+
+###
 
 <h4 align="center">Estudante de graduação no Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP).</h4>
 
