@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
 
 ###
@@ -10,7 +12,7 @@
 
 ###
 
-<img align="right" height="325" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzgyajV1cmlwcnB6azhuZ29kcmZsdDFuZDJ3ZWhtcjA3bnc3OXFjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rn79UlSTDfDlS/200.gif"  />
+<img align="right" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzgyajV1cmlwcnB6azhuZ29kcmZsdDFuZDJ3ZWhtcjA3bnc3OXFjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rn79UlSTDfDlS/200.gif"  />
 
 ###
 
@@ -50,21 +52,13 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OAkacio&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OAkacio&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OAkacio/OAkacio/output/snake.svg" alt="Snake animation" />
 
 ###
