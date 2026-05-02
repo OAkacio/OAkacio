@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h2 align="center">🪐 Victor M. Acacio</h2>
+<h1 align="center">🪐 Victor M. Acacio</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">Estudante de graduação no Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP).</h4>
+<h4 align="center">Estudante de graduação no Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP).</h4>
 
 ###
 
