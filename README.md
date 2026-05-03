@@ -1,20 +1,26 @@
 <br clear="both">
 
+<img align="right" height="380" src="https://i.pinimg.com/1200x/53/a6/a2/53a6a21ed1265bc8e5de932c3102031e.jpg"  />
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=10&fontColor=4A5D23%20&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=311D42"  />
+</div>
+
+###
+
+<br clear="both">
+
 <h1 align="center">🪐 Victor M. Acacio</h1>
 
 ###
 
+<br clear="both">
+
 <h4 align="center">Estudante de graduação no Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP).</h4>
-
-###
-
-<img align="right" height="450" src="https://www.sciencealert.com/images/2020-10/rogue_planet_microlensing_1024.gif"  />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
-</div>
 
 ###
 
@@ -26,11 +32,15 @@
 
 <br clear="both">
 
-<h6 align="left">🔭 Pesquisa e Projetos<br>🌌 Magnetohidrodinâmica: Modelagem de ventos estelares e expansão super-radial.<br>🪐 Exoplanetas: Impacto do vento estelar no sistema TRAPPIST-1.</h6>
+<img align="right" height="300" src="https://i.pinimg.com/originals/e6/10/9e/e6109e32a9ac1a8f2496d7fba78e9c84.gif"  />
 
 ###
 
-<h6 align="right">🔭 Atualmente focado na pesquisa de ejeção de plasma estelar acelerado por Ondas Alfvén no modelo Jatenco-Pereira e Opher, sob orientação da Profa. Dra. Vera Jatenco Silva Pereira.<br>🏫 Monitor atual do projeto Telescópios na Escola (TnE).<br>🌌 Ex-monitor do Planetário do Carmo - Professor Acácio Riberi.</h6>
+<p align="left">🔭 Pesquisa e Projetos<br>🌌 Magnetohidrodinâmica: Modelagem de ventos estelares e expansão super-radial.<br>🪐 Exoplanetas: Impacto do vento estelar no sistema TRAPPIST-1.</p>
+
+###
+
+<p align="left">🔭 Atualmente focado na pesquisa de ejeção de plasma estelar acelerado por Ondas Alfvén no modelo Jatenco-Pereira e Opher, sob orientação da Profa. Dra. Vera Jatenco Silva Pereira.<br>🏫 Monitor atual do projeto Telescópios na Escola (TnE).<br>🌌 Ex-monitor do Planetário do Carmo - Professor Acácio Riberi.</p>
 
 ###
 
@@ -44,6 +54,14 @@
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="20" alt="unrealengine logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" height="20" alt="latex logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge" height="20" alt="julia logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="left" height="100" src="https://i.pinimg.com/originals/08/f4/4e/08f44ee35174c455eec7caacf5bbcfb1.gif"  />
 
 ###
