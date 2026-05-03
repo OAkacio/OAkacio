@@ -65,3 +65,17 @@
 <img align="left" height="100" src="https://i.pinimg.com/originals/08/f4/4e/08f44ee35174c455eec7caacf5bbcfb1.gif"  />
 
 ###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OAkacio&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
