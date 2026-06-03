@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">🔭 Pesquisa e Projetos<br>🌌 Magnetohidrodinâmica: Modelagem de ventos estelares e expansão super-radial.<br>🪐 Exoplanetas: Impacto do vento estelar no sistema TRAPPIST-1.</p>
+<p align="left">🔭 Pesquisa e Projetos<br>🌌 Magnetohidrodinâmica: Modelagem MHD de ventos estelares amortecidos.<br>🪐 Exoplanetas: Impacto do vento estelar em exoplanetas semelhantes à Terra com ênfase no sistema TRAPPIST-1.</p>
 
 ###
 
